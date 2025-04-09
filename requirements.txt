@@ -1,0 +1,8 @@
+pandas 
+crewai
+gradio
+pyttsx3
+pydub
+speechrecognition
+chainlit
+matplotlib

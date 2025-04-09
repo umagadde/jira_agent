@@ -1,0 +1,26 @@
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore CSV files
+*.csv
+
+# Ignore common Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,7 @@
+Craeate a env in python if needed
+Install dependencies in requirement.txt
+Place the csv file in the root dir
+go to sambanove website and create a api key and place it .env file under name SAMBANOVA_API_KEY
+run python crew.py
+Your result will be created in output.csv file 
+

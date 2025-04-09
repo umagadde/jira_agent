@@ -1,0 +1,306 @@
+Date and Time :2025-03-28 20:36:41.171369
+users original query :Total Number of story points assigned to David in Sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :sum of story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:16:11.740177
+users original query :Total number of story points assigned to David in Sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:26:42.141240
+users original query :Total Number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:27:51.019247
+users original query :Total number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Total number of story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:29:38.581462
+users original query :Total number of stiry points assigned to David 
+data to query  :All issues assigned to David
+specific need  :sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:37:20.920963
+users original query :Total number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :sum of all story points of David
+------------------------------------------------------------------
+Date and Time :2025-03-28 21:41:50.654245
+users original query :Total number of story points assigned to David in Sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 22:14:00.465034
+users original query :Total number of story points assigned to Rishika in Sprint 8
+data to query  :All issues assigned to Rishika in Sprint 8
+specific need  :Sum of all story points assigned to Rishika in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 22:16:20.910949
+users original query :Total number of story points assigned to Rishika 
+data to query  :All issues assigned to Rishika
+specific need  :None
+------------------------------------------------------------------
+Date and Time :2025-03-28 22:25:42.975644
+users original query :Total number of story points assigned to Rishikha 
+data to query  :All issues assigned to Rishikha
+specific need  :Sum of all story points assigned to Rishikha
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:18:54.429723
+users original query :Total number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:20:04.966567
+users original query :Total number of backlogs assigned to CDF board in Sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:25:14.112438
+users original query :Number of backlogs assigned to CDF board in Sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:25:51.273875
+users original query :Number of issues assigned to Rishika in Sprint 8
+data to query  :All issues assigned to Rishika in Sprint 8
+specific need  :Number of issues assigned to Rishika in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:27:30.194434
+users original query :Number of Backlogs assigned to boards CDF and ESBNF in Sprint 8 seperately . Give me the value seperately
+data to query  :All backlogs in Sprint 8
+specific need  :Number of backlogs assigned to CDF and ESBNF boards separately in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:30:05.227807
+users original query :Compare the no of story points assigned to CDF board in Sprint 5, Sprint 6, Sprint 7
+data to query  :All issues in Sprint 5, Sprint 6, and Sprint 7 assigned to CDF board
+specific need  :Compare the number of story points assigned to CDF board in Sprint 5, Sprint 6, and Sprint 7
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:45:14.842121
+users original query :Total number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:50:01.132262
+users original query :Hi how are u
+data to query  :None
+specific need  :None
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:51:47.986808
+users original query :Total number of story points assigned to David in Sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:53:03.214663
+users original query :Total number of story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:53:39.821186
+users original query :hi
+data to query  :None
+specific need  :None
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:54:15.162878
+users original query :Total story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:54:55.431140
+users original query :Hello
+data to query  :None
+specific need  :None
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:56:09.346728
+users original query :Hello
+data to query  :None
+specific need  :None
+------------------------------------------------------------------
+Date and Time :2025-03-28 23:56:48.062113
+users original query :Total story points assigned to David 
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-30 15:50:56.049554
+users original query :Google Speech Recognition could not understand audio
+data to query  :All issues in Sprint 8
+specific need  :Story points assigned to RTB and CTB separately
+------------------------------------------------------------------
+Date and Time :2025-03-30 15:51:37.597363
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-30 15:52:19.457277
+users original query :total number of backlogs assigned to CDF board in sprint 8 and sprint 9 separately give it to be separately
+data to query  :All backlogs in CDF board in Sprint 8 and Sprint 9
+specific need  :Number of backlogs in CDF board in Sprint 8 and Sprint 9 separately
+------------------------------------------------------------------
+Date and Time :2025-03-30 16:12:24.460216
+users original query :total number of story points assigned to David
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-30 16:30:08.162986
+users original query :total number of story points assigned to David
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-30 16:44:28.417109
+users original query :total number of story points assigned to David
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-30 16:52:21.713956
+users original query :total number of story points assigned to David
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-30 17:07:04.383634
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-30 21:32:18.946129
+users original query :total number of story points assigned to David
+data to query  :All issues assigned to David
+specific need  :Sum of all story points assigned to David
+------------------------------------------------------------------
+Date and Time :2025-03-31 20:58:08.703774
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:00:36.292283
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:02:00.094148
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:04:11.907889
+users original query :total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:21:08.219202
+users original query :Total number of backlogs assigned to CDF board in sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:24:09.267809
+users original query :Total number of backlogs assigned to CDF board in sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:26:09.580712
+users original query :total number of backlogs assigned to CDF board for sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:28:49.013244
+users original query :total number of backlogs assigned to CDF board for sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:32:55.882868
+users original query :total number of backlogs assigned to CDF board in sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:35:39.001454
+users original query :give me the total number of issues assigned to rtb and ctb in CDF board separately
+data to query  :All issues assigned to RTB and CTB in CDF board
+specific need  :Total number of issues assigned to RTB and CTB separately
+------------------------------------------------------------------
+Date and Time :2025-03-31 21:37:00.050777
+users original query :total number of issues assigned to fte and FTC in CDF board in sprint 8 and give it to me separately
+data to query  :All issues in CDF board in Sprint 8
+specific need  :Total number of issues assigned to FTE and FTC separately in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-01 16:46:43.083696
+users original query :Total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in sprint 8
+specific need  :Sum of all story points assigned to David in sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-01 16:47:53.064658
+users original query :Total number of story points assigned to David in Sprint 8
+
+
+
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-01 17:22:45.794469
+users original query :Total number of story points assigned to David in sprint 8
+data to query  :All issues assigned to David in sprint 8
+specific need  :Sum of all story points assigned to David in sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-01 17:23:29.617021
+users original query :Total number of story points assigned to David in Sprint 8
+
+
+
+data to query  :All issues assigned to David in Sprint 8
+specific need  :Sum of all story points assigned to David in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-02 20:43:50.598893
+users original query :How is the backlog health of CDF board for sprint 8
+data to query  :All issues in Sprint 8 for CDF board
+specific need  :Count of all issues in Sprint 8 for CDF board and RTB and CTB issue counts seperately for CDF board in Sprint 8.
+------------------------------------------------------------------
+Date and Time :2025-04-02 20:47:15.368474
+users original query :What is backlog health of CDF board for sprint 8
+data to query  :All issues in CDF board for Sprint 8
+specific need  :Total number of story points in CDF board for Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-02 20:51:40.845288
+users original query :How is backlog health looking for CDF board in sprint 8
+data to query  :All backlogs in CDF board in Sprint 8
+specific need  :Number of backlogs in CDF board in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-02 20:55:49.097411
+users original query :Backlog health for CDF board in Sprint 8
+data to query  :All issues in CDF board in Sprint 8
+specific need  :count the total story points assigned to CDF board in Sprint 8 and save it and if its between 40-45 then its healthy else Unhealthy
+------------------------------------------------------------------
+Date and Time :2025-04-02 20:59:53.255850
+users original query :Backlog health for CDF board in Sprint 8
+data to query  :All issues in CDF board in Sprint 8
+specific need  :count the total story points assigned to CDF board in Sprint 8 and save it and if its between 40-45 then its healthy , if it is less than 40 its underutilization and if it is more than 45 then its overutilization
+------------------------------------------------------------------
+Date and Time :2025-04-02 21:08:04.501173
+users original query :Is backlog planned perfectly for next 2 sprints for CDF board
+data to query  :All issues in CDF board for next 2 sprints
+specific need  :Count of all issues in CDF board for next 2 sprints seperately, classify them as healthy, underutilized and overutilized based on story points and output their story points
+------------------------------------------------------------------
+Date and Time :2025-04-03 10:05:04.932556
+users original query :What is the backlog health for CDF board in sprint 8
+data to query  :All issues in CDF board in Sprint 8
+specific need  :Count the total story points assigned to CDF board in Sprint 8 and classify them as healthy (30-40 points), underutilized (less than 30 points), or overutilized (more than 40 points)
+------------------------------------------------------------------
+Date and Time :2025-04-03 10:08:07.000996
+users original query :What is the backlog health of  CDF board in sprint8 
+data to query  :All issues in CDF board in Sprint 8
+specific need  :Count the sum of all story points of issues assigned to CDF board in Sprint 8 and classify the backlog health. If the total is between 30-40, it's healthy; less than 30 is underutilized; more than 40 is overutilized.
+------------------------------------------------------------------
+Date and Time :2025-04-03 10:11:44.607145
+users original query :What is the backlog health of CDF  board in sprint 8
+data to query  :All issues in CDF board in Sprint 8
+specific need  :Count the sum of all story points of issues assigned to CDF board in Sprint 8 and classify the backlog health. If the total is between 30-40 story points, it's healthy; less than 30 is underutilized; more than 40 is overutilized.
+------------------------------------------------------------------
+Date and Time :2025-04-10 00:18:11.206414
+users original query :how many story points are assigned to Rishika in sprint8
+data to query  :All issues assigned to Rishika in Sprint 8
+specific need  :Sum of all story points assigned to Rishika in Sprint 8
+------------------------------------------------------------------
+Date and Time :2025-04-10 00:21:43.428247
+users original query :number of story points sent to Rishika
+data to query  :All issues assigned to Rishika
+specific need  :sum of all story points assigned to Rishika
+------------------------------------------------------------------
